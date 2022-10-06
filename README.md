@@ -11,3 +11,4 @@ EmployeeDAO-master(branch)\eclipse-workspace\com.valtech.training.corejava.day1\
 
 EmployeeControllerServlet - main(branch)\ValtechWeb3
 
+Customer - main(branch)\training\corejava\day5
